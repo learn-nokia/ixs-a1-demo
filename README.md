@@ -1,3 +1,5 @@
+#Author: Mohammad Zaman (Github: @mfzhsn and @learn-nokia, LinkedIn: www.linkedin.com/in/mohammad-f-zaman)
+
 # A1-Topo containerlab
 
 This repository contains a containerlab topology for SR Linux lab built around Nokia SR Linux IXS-A1 nodes and a central uplink switch. It is intended for testing connectivity, failover, and recovery workflows in a simple, reproducible virtual environment.
